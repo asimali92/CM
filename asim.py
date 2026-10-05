@@ -1,2 +1,0 @@
-import asim
-asim.aorovel()
